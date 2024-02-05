@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-Title: Log 7253.5
+title: Log 7253.5
 ---
 
 # Captain's Log, star date 7253.5
