@@ -1,6 +1,8 @@
 ---
 layout: layout.liquid
-Title: 1st blog
+Title: Log 7253.5
 ---
 
-Heyo, this is my first blog post, let's see if I can remember how to do this
+# Captain's Log, star date 7253.5
+
+Planet Hur-VIII has many different lifeforms on it.
