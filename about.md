@@ -5,4 +5,4 @@ title: About the Fiddlesbane
 
 # About the Fiddlesbane
 
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+The Fiddlesbane is an exploratory and transport vehicle, it has been the first human starship to arrive at many quadrants including: DL6, SL9, HUR, and many more. This website is mainly used to recieve and store new logs they have about new planets they found.

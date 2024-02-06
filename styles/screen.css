@@ -30,7 +30,7 @@ nav ul li a {
     padding: 20px;
     color: #FFC857;
     text-decoration: none;
-    font-size: 1.2em;
+    font-size: 1.5em;
 }
 
 h1 {
@@ -44,10 +44,6 @@ h1 strong {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
-
-img.about {
-    opacity: 0.5;
 }
 
 .blogHolder{
@@ -69,4 +65,12 @@ img.about {
     bottom: 0;
     left: 80px;
     right: 80px;
+}
+
+p{
+    font-size: 2em;
+    margin: 40px;
+    padding: 40px;
+    border: solid #119DA4;
+    background-color: #19647E;
 }
